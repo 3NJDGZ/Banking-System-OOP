@@ -3,6 +3,7 @@ from Bankfile import Bank
 import time 
 import random
 
+print("hello world!")
 running = True 
 loading = "\nLOADING..."
 
